@@ -185,8 +185,3 @@ Os arquivos são gerados em `dist/`. O resultado é uma SPA estática que pode s
 - Recursão profunda em módulos pode causar stack overflow
 - Geometrias muito complexas podem ser lentas por limitações do CSG em JS
 
----
-
-## Licença
-
-MIT
